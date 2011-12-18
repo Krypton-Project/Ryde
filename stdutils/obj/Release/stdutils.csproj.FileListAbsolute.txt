@@ -1,0 +1,5 @@
+C:\Users\Utilisateur\Desktop\Projects\c#\rydeUI\stdutils\bin\Release\stdutils.dll
+C:\Users\Utilisateur\Desktop\Projects\c#\rydeUI\stdutils\bin\Release\stdutils.pdb
+C:\Users\Utilisateur\Desktop\Projects\c#\rydeUI\stdutils\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Utilisateur\Desktop\Projects\c#\rydeUI\stdutils\obj\Release\stdutils.dll
+C:\Users\Utilisateur\Desktop\Projects\c#\rydeUI\stdutils\obj\Release\stdutils.pdb

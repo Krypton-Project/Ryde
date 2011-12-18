@@ -1,0 +1,5 @@
+C:\Users\Utilisateur\Desktop\Projects\c#\rydeUI\system\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Utilisateur\Desktop\Projects\c#\rydeUI\system\bin\Debug\system.dll
+C:\Users\Utilisateur\Desktop\Projects\c#\rydeUI\system\bin\Debug\system.pdb
+C:\Users\Utilisateur\Desktop\Projects\c#\rydeUI\system\obj\Debug\system.dll
+C:\Users\Utilisateur\Desktop\Projects\c#\rydeUI\system\obj\Debug\system.pdb

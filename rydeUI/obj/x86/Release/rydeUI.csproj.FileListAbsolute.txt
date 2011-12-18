@@ -1,0 +1,15 @@
+C:\Users\Utilisateur\Desktop\Projects\c#\rydeUI\rydeUI\bin\Release\rydeUI.exe
+C:\Users\Utilisateur\Desktop\Projects\c#\rydeUI\rydeUI\bin\Release\rydeUI.pdb
+C:\Users\Utilisateur\Desktop\Projects\c#\rydeUI\rydeUI\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Utilisateur\Desktop\Projects\c#\rydeUI\rydeUI\obj\x86\Release\rydeUI.execute.resources
+C:\Users\Utilisateur\Desktop\Projects\c#\rydeUI\rydeUI\obj\x86\Release\rydeUI.mainStrip.resources
+C:\Users\Utilisateur\Desktop\Projects\c#\rydeUI\rydeUI\obj\x86\Release\rydeUI.Properties.Resources.resources
+C:\Users\Utilisateur\Desktop\Projects\c#\rydeUI\rydeUI\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Utilisateur\Desktop\Projects\c#\rydeUI\rydeUI\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Utilisateur\Desktop\Projects\c#\rydeUI\rydeUI\obj\x86\Release\rydeUI.exe
+C:\Users\Utilisateur\Desktop\Projects\c#\rydeUI\rydeUI\obj\x86\Release\rydeUI.pdb
+C:\Users\Utilisateur\Desktop\Projects\c#\rydeUI\rydeUI\obj\x86\Release\rydeUI.about.resources
+C:\Users\Utilisateur\Desktop\Projects\c#\rydeUI\rydeUI\obj\x86\Release\rydeUI.content.resources
+C:\Users\Utilisateur\Desktop\Projects\c#\rydeUI\rydeUI\bin\Release\stdutils.dll
+C:\Users\Utilisateur\Desktop\Projects\c#\rydeUI\rydeUI\bin\Release\stdutils.pdb
+C:\Users\Utilisateur\Desktop\Projects\c#\rydeUI\rydeUI\obj\x86\Release\rydeUI.search.resources

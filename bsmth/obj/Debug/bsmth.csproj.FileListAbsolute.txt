@@ -1,0 +1,5 @@
+C:\Users\Utilisateur\Desktop\Projects\c#\rydeUI\bsmth\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Utilisateur\Desktop\Projects\c#\rydeUI\bsmth\bin\Debug\bsmth.dll
+C:\Users\Utilisateur\Desktop\Projects\c#\rydeUI\bsmth\bin\Debug\bsmth.pdb
+C:\Users\Utilisateur\Desktop\Projects\c#\rydeUI\bsmth\obj\Debug\bsmth.dll
+C:\Users\Utilisateur\Desktop\Projects\c#\rydeUI\bsmth\obj\Debug\bsmth.pdb
